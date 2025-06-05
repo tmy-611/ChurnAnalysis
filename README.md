@@ -37,10 +37,16 @@ The dataset used is an e-commerce transactions dataset containing the following 
 
 ## Project Structure
 ├── customer_segment.ipynb # Jupyter Notebook for data cleaning, RFM calculation, and segmentation.
+
 ├── analysis_notebook.ipynb # (Placeholder) Jupyter Notebook for further analysis of the results.
+
 ├── data/ # (Optional) Directory for raw input data.
+
 │ └── online_retail.csv # Example raw data file name
+
 │ └── cleaned_data.csv # Output: Cleaned transaction data.
+
 │ └── rfm_df.csv # Output: RFM scores and customer segments.
+
 └── README.md # This file.
 
